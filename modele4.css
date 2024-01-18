@@ -2,12 +2,12 @@ body {
     font-family: Helvetica;
     margin: 0;
     padding: 0;
-    background-color: #f0e0ff; /* Pastel purple background */
+    background-color: #f0e0ff; 
 }
 
 header {
-    background-color: #bf80ff; /* Pastel purple */
-    color: #e6ccff; /* Lighter pastel purple */
+    background-color: #bf80ff; 
+    color: #e6ccff; 
     text-align: center;
     padding: 20px;
 }
@@ -17,7 +17,7 @@ header h1 {
 }
 
 nav {
-    background-color: #9966cc; /* Darker pastel purple */
+    background-color: #9966cc; 
     overflow: hidden;
 }
 
@@ -33,14 +33,14 @@ nav ul li {
 
 nav ul li a {
     display: block;
-    color: #e6ccff; /* Lighter pastel purple */
+    color: #e6ccff; 
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 nav ul li a:hover {
-    background-color: #bf80ff; /* Hover color - lighter pastel purple */
+    background-color: #bf80ff; 
 }
 
 main {
@@ -55,7 +55,7 @@ main {
 
 .text {
     width: 60%;
-    color: #ccd9ff; /* Light pastel purple text color */
+    color: #ccd9ff; 
 }
 
 .image {
@@ -69,19 +69,19 @@ img {
 }
 
 section {
-    background-color: #9966cc; /* Darker pastel purple */
+    background-color: #9966cc; 
     margin-bottom: 20px;
     padding: 20px;
     border-radius: 8px;
 }
 
 section h3 {
-    color: #e6ccff; /* Lighter pastel purple */
+    color: #e6ccff;
 }
 
 footer {
-    background-color: #bf80ff; /* Pastel purple */
-    color: #e6ccff; /* Lighter pastel purple */
+    background-color: #bf80ff; 
+    color: #e6ccff; 
     text-align: center;
     margin-top: 10px;
     position: fixed;
@@ -90,5 +90,5 @@ footer {
 }
 
 body{
-    background: url('bg4.jpg') center/cover no-repeat fixed;
+    background: url('./images/bg4.jpg') center/cover no-repeat fixed;
 }

@@ -89,6 +89,7 @@ footer {
     width: 100%;
 }
 
-body {
-    background: url('bg.png') center/cover no-repeat fixed;
+body{
+    background: url('./images/bg.png') center/cover no-repeat fixed;
 }
+
