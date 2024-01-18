@@ -90,6 +90,6 @@ footer {
 }
 
 body {
-    background: url('bg.png') center/cover no-repeat fixed;
+    background: url('./images/bg.png') center/cover no-repeat fixed;
 }
 
